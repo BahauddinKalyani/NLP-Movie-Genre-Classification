@@ -12,7 +12,7 @@ This project focuses on building and evaluating machine learning models for movi
 
 ## Contents
 
-- [Notebook](NLP Movie Genre Classification.ipynb): Jupyter Notebook containing the analysis.
+- [Notebook](NLP-Movie-Genre-Classification.ipynb): Jupyter Notebook containing the analysis.
 - [Data](data/train_data.txt): Sample dataset used for the analysis.
 - [README.md](README.md): This file, providing an overview of the repository.
 
